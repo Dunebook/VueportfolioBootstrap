@@ -1,4 +1,3 @@
-# vuex-example
 
 ## Project setup
 ```
